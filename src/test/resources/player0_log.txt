@@ -1,0 +1,77 @@
+player0 starts with: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, total: 10
+player0 discard a 1.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1
+player0 drew a 91.
+player0 hand is: 1, 1, 1, 1, 1, 1, 1, 1, 1, 91, total: 100

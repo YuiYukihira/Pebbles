@@ -1,15 +1,27 @@
 package Pebbles;
 
-import java.util.List;
+import java.util.Vector;
 
-public abstract class Bag {
-    protected List<Integer> stones;
+public class Bag implements IBag{
+    private final Vector<Integer> stones;
 
-    public void addStone(Integer weight) {
+    Bag() {
+        stones = new Vector<>();
+    }
+
+    Bag(Vector<Integer> l) {
+        stones = l;
+    }
+
+    public synchronized void addStone(Integer weight) {
         stones.add(weight);
     }
 
-    public Integer removeStone(int index) {
+    public synchronized Integer removeStone(int index) {
         return stones.remove(index);
+    }
+
+    public synchronized int size() {
+        return stones.size();
     }
 }
